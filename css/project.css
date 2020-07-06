@@ -1,0 +1,57 @@
+.projectheader {
+    padding-top: 1.5em;
+    padding-bottom: 0.25em;
+    padding-left: 13em;
+    padding-right: 15em;
+    margin: 0;
+    font-size: 150%;
+    text-align: center;
+    width: 105%;
+    border-bottom: 2px solid #800000;
+
+}
+.projectheader h2 {
+    color: darkslateblue;
+}
+
+
+
+
+.projectmain ul {
+    text-align: center;
+    padding-top: 2em;
+    padding-bottom: 0.25em;
+    padding-left: 15em;
+    margin: 0;
+    width: 105%;
+    color: black;
+    float: right;
+    list-style: revert;
+}
+.projectmain li {
+    float: right;
+    padding-right: 2em;
+    padding-left: 2em;
+    padding-bottom: 0.25em;
+    margin: 0;
+    font-size: 150%;
+    text-align: left;
+    width: 105%;
+    color: black;
+    list-style: none;
+
+
+}
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.5rem;
+}

@@ -1,0 +1,65 @@
+.abilityheader {
+    padding-top: 1.5em;
+    padding-bottom: 0.25em;
+    padding-left: 13em;
+    padding-right: 15em;
+    margin: 0;
+    font-size: 150%;
+    text-align: center;
+    width: 105%;
+    border-bottom: 2px solid #800000;
+
+}
+.abilityheader h2 {
+    color: darkslateblue;
+}
+
+
+
+.abilitymain h2 {
+    padding-left: 5em;
+    padding-top: 2em;
+    padding-bottom: 0.50em;
+    margin: 0;
+    font-size: 200%;
+    text-align: left;
+    width: 100%;
+    color: darkslateblue;
+
+}
+
+
+.abilitymain ul {
+    text-align: left;
+    padding-top: 2em;
+    padding-bottom: 0.25em;
+    padding-left: 55em;
+    margin: 0;
+    width: 105%;
+    font-size: 50%;
+    color: black;
+    float: right;
+}
+.abilitymain li {
+    float: right;
+    padding-bottom: 0.25em;
+    margin: 0;
+    font-size: 200%;
+    text-align: left;
+    width: 105%;
+    color: black;
+
+}
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.5rem;
+}

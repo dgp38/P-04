@@ -1,0 +1,133 @@
+.expheader {
+    padding-top: 1.5em;
+    padding-bottom: 0.25em;
+    padding-left: 13em;
+    padding-right: 15em;
+    margin: 0;
+    font-size: 150%;
+    text-align: center;
+    width: 105%;
+    border-bottom: 2px solid #800000;
+
+}
+.expheader h2 {
+    color: darkslateblue;
+}
+
+.expheader{
+    color: cadetblue;
+}
+
+.education h2 {
+    padding-left: 5em;
+    padding-top: 1em;
+    padding-bottom: 0.25em;
+    margin: 0;
+    font-size: 200%;
+    text-align: left;
+    width: 100%;
+    color: darkslateblue;
+}
+
+.education h3 {
+    padding-top: 1em;
+    padding-bottom: 0.25em;
+    margin: 0;
+    font-size: 200%;
+    text-align: center;
+    width: 100%;
+    color: #800000;
+}
+.education p {
+    padding-bottom: 0.25em;
+    padding-left: 39em;
+    margin: 0;
+    font-size: 70%;
+    text-align: left;
+    width: 105%;
+    color: black;
+}
+.education ul {
+
+    text-align: left;
+    padding-bottom: 0.25em;
+    padding-left: 65em;
+    margin: 0;
+    width: 105%;
+    font-size: 50%;
+    color: black;
+}
+.education li {
+    padding-bottom: 0.25em;
+
+    margin: 0;
+    font-size: 200%;
+    text-align: left;
+    width: 105%;
+    color: black;
+}
+
+.career h2 {
+    padding-left: 5em;
+    padding-top: 1em;
+    padding-bottom: 0.25em;
+    margin: 0;
+    font-size: 200%;
+    text-align: left;
+    width: 100%;
+    color: darkslateblue;
+}
+.career h3 {
+    padding-top: 1em;
+    padding-bottom: 0.25em;
+    padding-left: 12em;
+    margin: 0;
+    font-size: 200%;
+    text-align: left;
+    width: 100%;
+    color: #800000;
+}
+.career p {
+    padding-bottom: 0.25em;
+    padding-left: 39em;
+    margin: 0;
+    font-size: 70%;
+    text-align: left;
+    width: 105%;
+    color: black;
+
+}
+
+.career ul {
+    text-align: left;
+    padding-bottom: 0.25em;
+    padding-left: 65em;
+    margin: 0;
+    width: 105%;
+    font-size: 50%;
+    color: black;
+
+}
+
+.career li {
+    padding-bottom: 0.25em;
+    margin: 0;
+    font-size: 200%;
+    text-align: left;
+    width: 105%;
+    color: black;
+}
+.career {
+    padding-bottom: 10em;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.5rem;
+}
